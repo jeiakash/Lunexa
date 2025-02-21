@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Lunexa
-=======
+
 Here's a detailed breakdown of the README file for **Lunexa**:  
 
 ---
@@ -83,4 +81,4 @@ For inquiries, reach out to us at:
 
 This README provides a **clear introduction, setup guide, and contribution details**, ensuring users understand the project’s purpose and how they can get involved.  
 
->>>>>>> 46e71c1 (project started)
+
